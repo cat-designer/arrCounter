@@ -13,4 +13,4 @@ function treeSum (arr) {
 }
 
 let sum = treeSum (a);
-console.log (sum);
+alert (sum);
